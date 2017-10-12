@@ -1,13 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>1.3.3</small>
+# 编程教育 <small>0.0.1</small>
 
-> A magical documentation site generator.
+> 青少年编程指南
 
-- Simple and lightweight (~12kb gzipped)
-- Multiple themes
-- Not build static html files
+- 推广青少年编程教育
+- 感受计算机的魅力
 
 
-[GitHub](https://github.com/QingWei-Li/docsify/)
+[GitHub](https://github.com/liubing1545/ProgrammingEducation/)
 [Get Started](#quick-start)
